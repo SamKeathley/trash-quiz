@@ -4,6 +4,7 @@ This is a satiracle, Buzzfeed-style, personality quiz app that evaluates what ki
 ### Technologies & Processes Used:
 ---
 - ReactJS
+- TypeScript
 - SASS
 - TDD
 

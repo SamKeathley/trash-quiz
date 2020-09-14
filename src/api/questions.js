@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "What is your ideal A E S T H E T I C",
+        question: "What is your ideal A E S T H E T I C?",
         answers: [
             {
                 type: "Recycled",
@@ -174,3 +174,5 @@ const questions = [
         ]
     }
 ]
+
+export default questions;
